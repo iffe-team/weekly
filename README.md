@@ -3,3 +3,5 @@
 [第1期](https://github.com/iffe-team/weekly/blob/master/2016_1.md)
 
 [第2期](https://github.com/iffe-team/weekly/blob/master/2016_2.md)
+
+[第3期](https://github.com/iffe-team/weekly/blob/master/2016_3.md)
