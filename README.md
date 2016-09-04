@@ -7,3 +7,5 @@
 [第3期](https://github.com/iffe-team/weekly/blob/master/2016_3.md)
 
 [第4期](https://github.com/iffe-team/weekly/blob/master/2016_4.md)
+
+[第5期](https://github.com/iffe-team/weekly/blob/master/2016_5.md)
