@@ -11,3 +11,5 @@
 [第5期](https://github.com/iffe-team/weekly/blob/master/2016_5.md)
 
 [第6期](https://github.com/iffe-team/weekly/blob/master/2016_6.md)
+
+[第6期](https://github.com/iffe-team/weekly/blob/master/2016_7.md)
