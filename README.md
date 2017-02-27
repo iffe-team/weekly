@@ -1,5 +1,5 @@
 # IFFE 前端开发周刊
-[2017年第3期](https://github.com/iffe-team/weekly/blob/master/2017_03.md)[2017年第3期](https://github.com/iffe-team/weekly/blob/master/2017_03.md)
+[2017年第3期](https://github.com/iffe-team/weekly/blob/master/2017_03.md)
 
 [2017年第1期](https://github.com/iffe-team/weekly/blob/master/2017_01.md)
 
